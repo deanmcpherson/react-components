@@ -1,0 +1,15 @@
+{
+  "name": "my-components",
+  "version": "0.0.1",
+  "description": "A sample UI component library.",
+  "devDependencies": {
+    "ui-harness": "^3.9.4"
+  },
+  "scripts": {
+    "start": "node ./node_modules/ui-harness/start",
+    "build": "node ./node_modules/ui-harness/build"
+  },
+  "dependencies": {
+    "react-motion": "^0.4.3"
+  }
+}
